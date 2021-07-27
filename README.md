@@ -1,5 +1,3 @@
-In collaboration with Dhruv Hariharan
-
 # WASTE CLASSIFICATION
 This repository contains code to classify waste into organic or recyclable.
 
